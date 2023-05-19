@@ -1,0 +1,17 @@
+{
+    "name": "finn-matti/phpspreadsheet-problem",
+    "require": {
+        "php": ">=8.1.0",
+        "phpoffice/phpspreadsheet": "1.28.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpSpreadSheetProblem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin 'Matti' Hähnel"
+        }
+    ]
+}

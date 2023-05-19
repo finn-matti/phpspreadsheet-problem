@@ -1,0 +1,13 @@
+Change phpspreadsheet from:
+
+```
+"phpoffice/phpspreadsheet": "1.28.0"
+```
+
+to
+
+```
+"phpoffice/phpspreadsheet": "1.24.1"
+```
+
+and see the difference in the file.
